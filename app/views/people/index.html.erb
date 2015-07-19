@@ -5,7 +5,7 @@
 
   <div ng-app ng-controller="displayPeopleCtrl">
     <div ng-repeat="person in people">
-     <h3 ng-click="showDetails = ! showDetails"> 
+    <h3 ng-click="showDetails = ! showDetails"> 
        Name: {{person.name}}</h3>
        <div ng-show="showDetails">
         <p>Bio: {{person.bio}}</p>

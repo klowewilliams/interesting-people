@@ -11,7 +11,11 @@
     {
       name: "John Doe",
       bio: "Blog brunch mlkshk, 8-bit cred tousled hashtag asymmetrical flexitarian iPhone hoodie food truck freegan banjo. Pop-up tousled art party, meggings freegan butcher iPhone Pitchfork Godard synth. Keffiyeh fap messenger bag, PBR&B craft beer Bushwick kogi occupy McSweeney's taxidermy pop-up Pinterest lumbersexual. American Apparel ugh literally messenger bag tote bag, selvage art party disrupt gentrify. Austin health goth flannel cred. Flannel cornhole fanny pack, street art Shoreditch single-origin coffee Austin you probably haven't heard of them shabby chic Truffaut health goth McSweeney's artisan ennui Tumblr. Craft beer narwhal meh art party meditation."
-    }
+    }, 
+    {
+    name: "Jane Smith",
+    bio: "Migas Portland Odd Future, lumbersexual sriracha authentic hoodie biodiesel pickled tousled McSweeney's. PBR meh fanny pack, Kickstarter cliche Portland Bushwick forage pop-up whatever. Schlitz photo booth single-origin coffee locavore. Cray health goth Banksy wayfarers. DIY American Apparel Echo Park biodiesel pug shabby chic, bespoke banh mi put a bird on it selvage sartorial. Meditation kale chips Austin Williamsburg, chambray raw denim jean shorts Carles readymade hoodie iPhone normcore keytar gastropub before they sold out. IPhone chillwave Bushwick, butcher forage raw denim pickled beard taxidermy food truck plaid put a bird on it."
+  }
     ];
 
     window.scope = $scope;
